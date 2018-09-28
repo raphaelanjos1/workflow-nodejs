@@ -15,6 +15,14 @@
   ],
   "author": "Raphael Anjos <raphael-anjos@live.com>",
   "license": "MIT",
+  "homepage": "https://github.com/raphaelanjos1/workflow-nodejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphaelanjos1/workflow-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raphaelanjos1/workflow-nodejs/issues"
+  },
   "devDependencies": {
     "eslint": "5.6.0",
     "eslint-config-prettier": "3.1.0",
